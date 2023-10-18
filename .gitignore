@@ -1,4 +1,5 @@
 # ignore the following files
+invivo_data.csv
 .DS_Store
 .ipynb_checkpoints/
 __pycache__/
@@ -6,4 +7,4 @@ Notes.rtf
 insilico_data_all_parameters.csv
 insilico_data_noisefree_float.csv
 insilico_data_noisy_float.csv
-invivo_data.csv
+

@@ -23,6 +23,8 @@ Bikia, V., Papaioannou, T.G., Pagoulatou, S. et al. Noninvasive estimation of ao
 **License**
 
 This project is licensed under the Apache License 2.0 - see the LICENSE.md file for details.
+
 This work was developed as part of a research project undertaken by the Laboratory of Hemodynamics and Cardiovascular Technology at EPFL (https://www.epfl.ch/labs/lhtc/).
+
 
 Feel free to reach out at vickybikia@gmail.com if you have any questions or need further assistance!

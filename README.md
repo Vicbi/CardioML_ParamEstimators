@@ -12,13 +12,13 @@ Cardiac and aortic characteristics are crucial for cardiovascular disease detect
 
 **Original Publication**
 
-For a comprehensive understanding of the methodology and background, refer to the original publication: Bikia, V., Papaioannou, T. G., Pagoulatou, S., Rovas, G., Oikonomou, E., Siasos, G., ... & Stergiopulos, N. (2020). Noninvasive estimation of aortic hemodynamics and cardiac contractility using machine learning. Scientific Reports, 10(1), 15015.
+For a comprehensive understanding of the methodology and background, refer to the original publication: Bikia, V., Papaioannou, T. G., Pagoulatou, S., Rovas, G., Oikonomou, E., Siasos, G., Tousoulis, D., & Stergiopulos, N. (2020). Noninvasive estimation of aortic hemodynamics and cardiac contractility using machine learning. Scientific Reports, 10(1), 15015.
 
 **Citation**
 
 If you use this code in your research, please cite the original publication:
 
-Bikia, V., Papaioannou, T. G., Pagoulatou, S., Rovas, G., Oikonomou, E., Siasos, G., ... & Stergiopulos, N. (2020). Noninvasive estimation of aortic hemodynamics and cardiac contractility using machine learning. Scientific Reports, 10(1), 15015. https://doi.org/10.1038/s41598-020-72147-8
+Bikia, V., Papaioannou, T. G., Pagoulatou, S., Rovas, G., Oikonomou, E., Siasos, G., Tousoulis, D., & Stergiopulos, N. (2020). Noninvasive estimation of aortic hemodynamics and cardiac contractility using machine learning. Scientific Reports, 10(1), 15015. https://doi.org/10.1038/s41598-020-72147-8
 
 **License**
 

@@ -1,7 +1,7 @@
 # CardioML_ParamEstimation:
 
-## Cardiovascular Parameter Estimation with Regression Analysis
-This repository contains scripts for performing regression analysis to estimate major cardiovascular parameters using non-invasive clinical data. The parameters include aortic systolic blood pressure (aSBP), cardiac Output (CO), and end-systolic Elastance (Ees).
+## Noninvasive estimation of aortic hemodynamics and cardiac contractility using machine learning
+This repository contains scripts for performing regression analysis to estimate major cardiovascular parameters using non-invasive clinical data. The parameters include aortic systolic blood pressure (aSBP), cardiac Output (CO), and end-systolic elastance (Ees).
 
 **Abstract**
 
@@ -12,13 +12,13 @@ Cardiac and aortic characteristics are crucial for cardiovascular disease detect
 
 **Original Publication**
 
-For a comprehensive understanding of the methodology and background, refer to the original publication: Bikia, V., Papaioannou, T.G., Pagoulatou, S. et al. Noninvasive estimation of aortic hemodynamics and cardiac contractility using machine learning. Sci Rep 10, 15015 (2020). https://doi.org/10.1038/s41598-020-72147-8.
+For a comprehensive understanding of the methodology and background, refer to the original publication: Bikia, V., Papaioannou, T. G., Pagoulatou, S., Rovas, G., Oikonomou, E., Siasos, G., ... & Stergiopulos, N. (2020). Noninvasive estimation of aortic hemodynamics and cardiac contractility using machine learning. Scientific Reports, 10(1), 15015.
 
 **Citation**
 
 If you use this code in your research, please cite the original publication:
 
-Bikia, V., Papaioannou, T.G., Pagoulatou, S. et al. Noninvasive estimation of aortic hemodynamics and cardiac contractility using machine learning. Sci Rep 10, 15015 (2020). https://doi.org/10.1038/s41598-020-72147-8
+Bikia, V., Papaioannou, T. G., Pagoulatou, S., Rovas, G., Oikonomou, E., Siasos, G., ... & Stergiopulos, N. (2020). Noninvasive estimation of aortic hemodynamics and cardiac contractility using machine learning. Scientific Reports, 10(1), 15015. https://doi.org/10.1038/s41598-020-72147-8
 
 **License**
 
